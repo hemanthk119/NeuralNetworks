@@ -1,0 +1,30 @@
+C:\Users\ICARUS\Documents\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.csprojResolveAssemblyReference.cache
+C:\Users\ICARUS\Documents\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.Form1.resources
+C:\Users\ICARUS\Documents\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.Properties.Resources.resources
+C:\Users\ICARUS\Documents\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.csproj.GenerateResource.Cache
+C:\Users\ICARUS\Documents\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\bin\Debug\NumDetector88.exe
+C:\Users\ICARUS\Documents\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\bin\Debug\NumDetector88.pdb
+C:\Users\ICARUS\Documents\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.exe
+C:\Users\ICARUS\Documents\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.pdb
+C:\Users\ICARUS\Documents\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\bin\Debug\NeuralClasses.dll
+C:\Users\ICARUS\Documents\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\bin\Debug\NeuralClasses.pdb
+F:\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\bin\Debug\NumDetector88.exe
+F:\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\bin\Debug\NumDetector88.pdb
+F:\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\bin\Debug\NeuralClasses.dll
+F:\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\bin\Debug\NeuralClasses.pdb
+F:\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.Form1.resources
+F:\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.Properties.Resources.resources
+F:\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.csproj.GenerateResource.Cache
+F:\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.exe
+F:\Visual Studio 2012\Projects\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.pdb
+F:\GitHub\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.exe
+F:\GitHub\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.pdb
+F:\GitHub\NeuralNetworks\NumDetector88\bin\Debug\NumDetector88.exe
+F:\GitHub\NeuralNetworks\NumDetector88\bin\Debug\NumDetector88.pdb
+F:\GitHub\NeuralNetworks\NumDetector88\bin\Debug\NeuralClasses.dll
+F:\GitHub\NeuralNetworks\NumDetector88\bin\Debug\NeuralClasses.pdb
+F:\GitHub\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.csprojResolveAssemblyReference.cache
+F:\GitHub\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.Form1.resources
+F:\GitHub\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.Properties.Resources.resources
+F:\GitHub\NeuralNetworks\NumDetector88\obj\Debug\NumDetector88.csproj.GenerateResource.Cache

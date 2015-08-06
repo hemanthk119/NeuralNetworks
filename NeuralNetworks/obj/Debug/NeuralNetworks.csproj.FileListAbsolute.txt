@@ -1,0 +1,5 @@
+F:\GitHub\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralClasses.dll
+F:\GitHub\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralClasses.pdb
+F:\GitHub\NeuralNetworks\NeuralNetworks\obj\Debug\NeuralNetworks.csprojResolveAssemblyReference.cache
+F:\GitHub\NeuralNetworks\NeuralNetworks\obj\Debug\NeuralClasses.dll
+F:\GitHub\NeuralNetworks\NeuralNetworks\obj\Debug\NeuralClasses.pdb
